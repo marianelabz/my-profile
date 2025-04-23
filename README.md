@@ -20,9 +20,7 @@ Hi there! I'm Marianela, a data analyst passionate about transforming data into 
 - **Advanced Excel**
 
 ## 📂 Featured Projects
-- [Sales Analysis](#)  
-- [Business KPI Dashboard](#)  
-- [Customer Data Exploration](#)
+- [Sales Analysis](https://www.kaggle.com/code/marianelabaez/electronics-sales-a-complete-analytical-journey)
 
 ---
 
